@@ -1,0 +1,35 @@
+<!--pages/home/home.wxml-->
+
+<swiper indicator-dots="true" circular="true" autoplay="true">
+<swiper-item wx:for="{{swiper}}" wx:key="id">
+<image src="{{item.url}}"></image>
+</swiper-item>
+
+</swiper>
+<view class="nav">
+   <view wx:for="{{nav}}" wx:key="id" bindtap="navgitor" data-info="{{item.text}}">
+      <image src="{{item.url}}"></image>
+      <text>{{item.text}}</text>
+   </view>
+  
+</view>
+<view class="course">
+   <view class="cc">
+   <view class="tui">
+       <view class="yellow"></view>
+       <h2 style="font-size: 30rpx;font-weight: 600;line-height: 50rpx;">推荐课程</h2>
+   </view>
+   <view class="more">  </view>
+</view>
+   <view class="video">
+      <view class="videocourse"  wx:for="{{courseinformation}}" wx:key="id">
+          <image src="{{item.url}}"></image>
+          <view class="content">
+            <view class="title">{{item.title}}</view>
+            <view class="description">{{item.description}}</view>
+            <button class="btn" bindtap="btn" data-info="{{item.id}}">查看详情</button>
+          </view>
+      </view>
+   </view>
+</view>
+

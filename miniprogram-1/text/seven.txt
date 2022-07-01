@@ -1,0 +1,44 @@
+<p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">12月2日，嫦娥五号</span><span style="color:#404040;">探测器成功在月球着陆</span><span style="color:#404040;">。</span><span style="color:#404040;">您对航天知识是否是否充满好奇？这些您不知道的航天小知识一起来看看？</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span><span style="color:#404040;">失重情况</span><span style="color:#404040;">下航天员如何睡觉？</span></span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">航天员在睡袋中漂浮着，用绳子将人倒挂在墙上、墙角、天花板上等等，背部和侧面没有感觉</span><span style="color:#404040;">。</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">宇航服穿着舒适吗？</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">航天员的航天服除了在舒适性和安全性上（比如要求要是防火材料）有特殊要求以外，通常和我们在地球上穿的没什么差别。当在失重情况下穿航天服的时候，航天员实际上就是在衣服内漂浮，感觉不到衣服的存在。</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">一套舱内的宇航服一般需要20多万的人民币，重量为20公斤左右，一套舱外的宇航服的造价通常需要2亿多的人民币，重量也达到了120多公斤。</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">太空闻起来是什么味道？</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">宇航员描述，它闻起来就像烧焦牛排、高温金属和焊接烟雾的刺鼻气味。专家表示，太空气味呈现出的金属味可能是来自于高能离子的振动。</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span><span style="color:#404040;">中国空间站设计寿命</span><span style="color:#404040;">有多长？</span></span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">中国空间站设计寿命不小于10年，还可通过维护维修，延长使用寿命，并具备一定扩展能力。</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">航天玻璃能做啥？</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">空间用抗辐照玻璃盖片</span><span style="color:#404040;">，</span><span style="color:#404040;">这是航天器的“护身铠甲”，能让太阳能电池方阵免受太空中高能粒子和有害射线的撞击。</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">为什么发射嫦娥五号要选在凌晨？</span>
+	</p>
+	<p style="font-family:微软雅黑;font-size:16px;color:#6B6B6B;text-indent:2em;background-color:#FFFFFF;">
+		<span style="color:#404040;">天气条件对于航天发射至关重要。在凌晨，天气状况比较稳定，云层更少，有利于火箭发射及信号的传播。同时，可更好地利用望远镜等天文设备，对观察到的发射情况做出总结。此外，由于凌晨整体环境亮度较低，火箭喷射火焰飞向太空时非常显眼和突出，有利于地面光学和测量设备跟踪到目标，收集相关信息。</span>
+	</p>
+</p>
